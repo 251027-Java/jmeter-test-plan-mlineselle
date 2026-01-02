@@ -76,9 +76,13 @@ Add the following listeners:
 ### Task 9: Analyze Results
 Answer these questions:
 1. What was the average response time?
+714ms
 2. What was the throughput (requests/second)?
+6.6/sec
 3. Did any requests fail?
+No
 4. Which endpoint was slowest?
+The /delay/1
 
 ## Deliverables
 1. JMeter test plan file (`.jmx`)
